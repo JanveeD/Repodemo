@@ -1,0 +1,18 @@
+github connection with vs
+(clone)
+
+git clone (link to github https)
+
+git status (show the status of our file)
+
+saved/ chnged
+git add file name(single chnage) 
+git add . (all file )
+git commit -m "any meassge you want "
+
+remove file :
+git rm (file_name)
+
+staging are remove not git
+
+git rm --cached file.name
